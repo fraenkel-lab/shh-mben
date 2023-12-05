@@ -53,7 +53,8 @@ Relevant Data for Scripts
 Many scripts in this directory rely on files in the "data" folder. This folder is currently empty, but the relevant omics and imaging data can be downloaded from the links below.
 
 omics data link: https://www.dropbox.com/sh/ubwiecqi3w5oqo9/AACQtut-kKu3LH1Iomi83xk1a?dl=0
-imaging data link: https://www.dropbox.com/sh/kle8q681x9evx9h/AADyZ5l5T6GaTg35uGM8A7nca?dl=0
+mIHC imaging data link: https://zenodo.org/records/10257144
+taurine-focused IHC data link: https://zenodo.org/records/10256482
 
 
 #############################################
